@@ -23,4 +23,22 @@ h1 {
   font-size: 40px;
 }
 
+form button {    
+  width: 200px;
+  height: 50px;
+  border: .25px solid #CCC;   
+  border-radius: 5px;  
+  background-color:#00F;
+  color: #FFF;
+  font-size: 18px;
+  cursor: pointer;
+  margin: 10px 0;
+  transition: .15s;
+}
+
+form button:hover {
+  background-color: #007;
+}
+
+
 
