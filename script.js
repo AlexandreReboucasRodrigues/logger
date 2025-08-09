@@ -1,8 +1,9 @@
 
-var start = document.getElementById("Start");
 
-start.addEventListener("click", function() {
+var start = document.getElementById("start");
 
-    window.location.href = "./pages/login.html";
+start.addEventListener("click", function(){
+
+  window.location.href = "./pages/login.html";
 
 });
